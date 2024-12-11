@@ -8,3 +8,5 @@ simulate one more refactor
 simulate merge with update in master
 # fifth commit
 simulate operation in master
+# sixth commit
+simulate operation in hotfix
