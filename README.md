@@ -4,3 +4,6 @@
 commit in branh refactor, open simulate merger between branch
 #  third commit
 simulate one more refactor
+
+# seventh commit
+simulate operation in master
